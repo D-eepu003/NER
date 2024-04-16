@@ -1,0 +1,7 @@
+pandas
+numpy
+itertools
+scikit-learn
+keras
+tensorflow
+spacy
